@@ -1,0 +1,107 @@
+season,era,wins,losses,ties,win_pct,made_playoffs
+1920,Chicago Cardinals,6,2,2,0.7,False
+1921,Chicago Cardinals,3,3,2,0.5,False
+1922,Chicago Cardinals,8,3,0,0.7273,False
+1923,Chicago Cardinals,8,4,0,0.6667,False
+1924,Chicago Cardinals,5,4,1,0.55,False
+1925,Chicago Cardinals,11,2,1,0.8214,False
+1926,Chicago Cardinals,5,6,1,0.4583,False
+1927,Chicago Cardinals,3,7,1,0.3182,False
+1928,Chicago Cardinals,1,5,0,0.1667,False
+1929,Chicago Cardinals,6,6,1,0.5,False
+1930,Chicago Cardinals,5,6,2,0.4615,False
+1931,Chicago Cardinals,5,4,0,0.5556,False
+1932,Chicago Cardinals,2,6,2,0.3,False
+1933,Chicago Cardinals,1,9,1,0.1364,False
+1934,Chicago Cardinals,5,6,0,0.4545,False
+1935,Chicago Cardinals,6,4,2,0.5833,False
+1936,Chicago Cardinals,3,8,1,0.2917,False
+1937,Chicago Cardinals,5,5,1,0.5,False
+1938,Chicago Cardinals,2,9,0,0.1818,False
+1939,Chicago Cardinals,1,10,0,0.0909,False
+1940,Chicago Cardinals,2,7,2,0.2727,False
+1941,Chicago Cardinals,3,7,1,0.3182,False
+1942,Chicago Cardinals,3,8,0,0.2727,False
+1943,Chicago Cardinals,0,10,0,0.0,False
+1944,Card-Pitt,0,10,0,0.0,False
+1945,Chicago Cardinals,1,9,0,0.1,False
+1946,Chicago Cardinals,6,5,0,0.5455,False
+1947,Chicago Cardinals,9,3,0,0.75,True
+1948,Chicago Cardinals,11,1,0,0.9167,True
+1949,Chicago Cardinals,6,5,1,0.5417,False
+1950,Chicago Cardinals,5,7,0,0.4167,False
+1951,Chicago Cardinals,3,9,0,0.25,False
+1952,Chicago Cardinals,4,8,0,0.3333,False
+1953,Chicago Cardinals,1,10,1,0.125,False
+1954,Chicago Cardinals,2,10,0,0.1667,False
+1955,Chicago Cardinals,4,7,1,0.375,False
+1956,Chicago Cardinals,7,5,0,0.5833,False
+1957,Chicago Cardinals,3,9,0,0.25,False
+1958,Chicago Cardinals,2,9,1,0.2083,False
+1959,Chicago Cardinals,2,10,0,0.1667,False
+1960,St. Louis Cardinals,6,5,1,0.5417,False
+1961,St. Louis Cardinals,7,7,0,0.5,False
+1962,St. Louis Cardinals,4,9,1,0.3214,False
+1963,St. Louis Cardinals,9,5,0,0.6429,False
+1964,St. Louis Cardinals,9,3,2,0.7143,False
+1965,St. Louis Cardinals,5,9,0,0.3571,False
+1966,St. Louis Cardinals,8,5,1,0.6071,False
+1967,St. Louis Cardinals,6,7,1,0.4643,False
+1968,St. Louis Cardinals,9,4,1,0.6786,False
+1969,St. Louis Cardinals,4,9,1,0.3214,False
+1970,St. Louis Cardinals,8,5,1,0.6071,False
+1971,St. Louis Cardinals,4,9,1,0.3214,False
+1972,St. Louis Cardinals,4,9,1,0.3214,False
+1973,St. Louis Cardinals,4,9,1,0.3214,False
+1974,St. Louis Cardinals,10,4,0,0.7143,True
+1975,St. Louis Cardinals,11,3,0,0.7857,True
+1976,St. Louis Cardinals,10,4,0,0.7143,False
+1977,St. Louis Cardinals,7,7,0,0.5,False
+1978,St. Louis Cardinals,6,10,0,0.375,False
+1979,St. Louis Cardinals,5,11,0,0.3125,False
+1980,St. Louis Cardinals,5,11,0,0.3125,False
+1981,St. Louis Cardinals,7,9,0,0.4375,False
+1982,St. Louis Cardinals,5,4,0,0.5556,True
+1983,St. Louis Cardinals,8,7,1,0.5312,False
+1984,St. Louis Cardinals,9,7,0,0.5625,False
+1985,St. Louis Cardinals,5,11,0,0.3125,False
+1986,St. Louis Cardinals,4,11,1,0.2812,False
+1987,St. Louis Cardinals,7,8,0,0.4667,False
+1988,Phoenix Cardinals,7,9,0,0.4375,False
+1989,Phoenix Cardinals,5,11,0,0.3125,False
+1990,Phoenix Cardinals,5,11,0,0.3125,False
+1991,Phoenix Cardinals,4,12,0,0.25,False
+1992,Phoenix Cardinals,4,12,0,0.25,False
+1993,Phoenix Cardinals,7,9,0,0.4375,False
+1994,Arizona Cardinals,8,8,0,0.5,False
+1995,Arizona Cardinals,4,12,0,0.25,False
+1996,Arizona Cardinals,7,9,0,0.4375,False
+1997,Arizona Cardinals,4,12,0,0.25,False
+1998,Arizona Cardinals,9,7,0,0.5625,True
+1999,Arizona Cardinals,6,10,0,0.375,False
+2000,Arizona Cardinals,3,13,0,0.1875,False
+2001,Arizona Cardinals,7,9,0,0.4375,False
+2002,Arizona Cardinals,5,11,0,0.3125,False
+2003,Arizona Cardinals,4,12,0,0.25,False
+2004,Arizona Cardinals,6,10,0,0.375,False
+2005,Arizona Cardinals,5,11,0,0.3125,False
+2006,Arizona Cardinals,5,11,0,0.3125,False
+2007,Arizona Cardinals,8,8,0,0.5,False
+2008,Arizona Cardinals,9,7,0,0.5625,True
+2009,Arizona Cardinals,10,6,0,0.625,True
+2010,Arizona Cardinals,5,11,0,0.3125,False
+2011,Arizona Cardinals,8,8,0,0.5,False
+2012,Arizona Cardinals,5,11,0,0.3125,False
+2013,Arizona Cardinals,10,6,0,0.625,False
+2014,Arizona Cardinals,11,5,0,0.6875,True
+2015,Arizona Cardinals,13,3,0,0.8125,True
+2016,Arizona Cardinals,7,8,1,0.4688,False
+2017,Arizona Cardinals,8,8,0,0.5,False
+2018,Arizona Cardinals,3,13,0,0.1875,False
+2019,Arizona Cardinals,5,10,1,0.3438,False
+2020,Arizona Cardinals,8,8,0,0.5,False
+2021,Arizona Cardinals,11,6,0,0.6471,True
+2022,Arizona Cardinals,4,13,0,0.2353,False
+2023,Arizona Cardinals,4,13,0,0.2353,False
+2024,Arizona Cardinals,8,9,0,0.4706,False
+2025,Arizona Cardinals,3,14,0,0.1765,False

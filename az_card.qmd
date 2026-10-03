@@ -1,0 +1,53 @@
+---
+title: "Arizona Cardinals Season Analysis"
+format: html
+---
+
+```{python}
+import polars as pl
+from lets_plot import *
+
+LetsPlot.setup_html(isolated_frame=True)
+```
+
+```{python}
+card_seasons = pl.read_csv("cardinals_seasons.csv")
+```
+
+```{python}
+modern_seasons = card_seasons.filter(pl.col("season") >= 1978)
+
+best_seasons = modern_seasons.sort("win_pct", descending=True).head(5)
+best_seasons
+```
+
+```{python}
+worst_seasons = modern_seasons.sort("win_pct").head(5)
+worst_seasons
+```
+
+```{python}
+era_summary = (
+    card_seasons
+    .group_by("era")
+    .agg(
+        pl.col("win_pct").mean().alias("avg_win_pct"),
+        pl.col("season").count().alias("num_seasons"),
+        pl.col("made_playoffs").sum().alias("playoff_appearances"),
+    )
+    .sort("avg_win_pct", descending=True)
+)
+era_summary
+```
+
+```{python}
+(
+    ggplot(card_seasons.to_pandas(), aes(x="season", y="win_pct", color="era"))
+    + geom_line()
+    + geom_point()
+    + scale_x_continuous(format="d")
+    + ggtitle("Cardinals Win Percentage by Season")
+    + xlab("Season")
+    + ylab("Win Percentage")
+)
+```
